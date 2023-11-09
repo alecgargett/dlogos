@@ -1,4 +1,4 @@
-# D Logo
+# D Logos
 
 Logos for the D programming language
 
