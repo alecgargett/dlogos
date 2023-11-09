@@ -1,7 +1,8 @@
 # D Logo
+
 Logos for the D programming language
 
-<img src="https://raw.githubusercontent.com/alecgargett/dlogos/master/dlogo1_ag.jpg" alt="D Logo 1" />
+<img src="https://raw.githubusercontent.com/alecgargett/dlogos/master/dlogo1_ag.png" alt="D Logo 1" />
 
 Created by Alec Gargett using DALL-E
 
