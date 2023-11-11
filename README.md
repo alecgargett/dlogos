@@ -1,12 +1,11 @@
 # D Logos
 
 Some ideas for new logos for the D programming language.
-<img src="https://raw.githubusercontent.com/alecgargett/dlogos/main/dlogo1.1_ag.jpeg" alt="D Logo Basic" />
-<img src="https://raw.githubusercontent.com/alecgargett/dlogos/main/dlogo3.3_ag_basic_3D.png" alt="D Logo Basic 3D" />
-<img src="https://raw.githubusercontent.com/alecgargett/dlogos/main/dlogo2.1_ag.jpeg" alt="D Logo Modern" />
-<img src="https://raw.githubusercontent.com/alecgargett/dlogos/main/dlogo2.2_ag_square.png" alt="D Logo ModernSquare" />
-<img src="https://raw.githubusercontent.com/alecgargett/dlogos/main/dlogo2.2_ag_freeformcrop.png" alt="D Logo ModernCutout" />
-<img src="https://raw.githubusercontent.com/alecgargett/dlogos/main/dlogo2.3_ag_3D_hexagon.png" alt="D Logo Modern3D" />
+<img src="https://raw.githubusercontent.com/alecgargett/dlogos/main/dlogo1.1.3.0_ag_basic_3D_hexagon.png" alt="D Logo Basic" />
+<img src="https://raw.githubusercontent.com/alecgargett/dlogos/main/dlogo2.2.1_ag_modern_square.png" alt="D Logo Modern 3D Square" />
+<img src="https://raw.githubusercontent.com/alecgargett/dlogos/main/dlogo2.2.1_ag_modern_crop.png" alt="D Logo Modern 3D Crop" />
+<img src="https://raw.githubusercontent.com/alecgargett/dlogos/main/dlogo2.2.1_ag_modern_cutout.png" alt="D Logo Modern 3D Cutout" />
+<img src="https://raw.githubusercontent.com/alecgargett/dlogos/main/dlogo2.2.1_ag_modern_3D hexagon.png" alt="D Logo Modern 3D Hexagon" />
 
 Created by Alec Gargett using DALL-E for first draft followed by image editing software.
 
