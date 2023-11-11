@@ -5,7 +5,7 @@ Some ideas for new logos for the D programming language needing manual refinemen
 <img src="https://raw.githubusercontent.com/alecgargett/dlogos/main/dlogo2.1_ag.jpeg" alt="D Logo Simple" />
 <img src="https://raw.githubusercontent.com/alecgargett/dlogos/main/dlogo2.2_ag_square.png" alt="D Logo Square" />
 <img src="https://raw.githubusercontent.com/alecgargett/dlogos/main/dlogo2.2_ag_freeformcrop.PNG" alt="D Logo Cutout" />
-<img src="https://raw.githubusercontent.com/alecgargett/dlogos/main/dlogo2.3_ag_3D_hexagon.PNG" alt="D Logo 2" />
+<img src="https://raw.githubusercontent.com/alecgargett/dlogos/main/dlogo2.3_ag_3D_hexagon.png" alt="D Logo 3D" />
 
 Created by Alec Gargett using DALL-E
 
