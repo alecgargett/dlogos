@@ -7,6 +7,6 @@ Some ideas for new logos for the D programming language needing manual refinemen
 <img src="https://raw.githubusercontent.com/alecgargett/dlogos/main/dlogo2.2_ag_freeformcrop.PNG" alt="D Logo Cutout" />
 <img src="https://raw.githubusercontent.com/alecgargett/dlogos/main/dlogo2.3_ag_3D_hexagon.png" alt="D Logo 3D" />
 
-Created by Alec Gargett using DALL-E
+Created by Alec Gargett using DALL-E for first draft followed by image editing software.
 
 Licensed under Alec Gargett Conditional Copyleft Creative License (Summary: permission to use or modify in any way with fair attribution where convenient, without compensation in cases without large resulting increases in profits, but with fair payment in cases of a large increase in profits resulting from that use. Similar to Creative Commons Attribution-ShareAlike (CC BY-SA) but with fair compensation in cases of large resulting increases in profits.)
