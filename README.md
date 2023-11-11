@@ -1,6 +1,6 @@
 # D Logos
 
-Some ideas for new logos for the D programming language needing manual refinement by an artist.
+Some ideas for new logos for the D programming language.
 
 <img src="https://raw.githubusercontent.com/alecgargett/dlogos/main/dlogo2.1_ag.jpeg" alt="D Logo Simple" />
 <img src="https://raw.githubusercontent.com/alecgargett/dlogos/main/dlogo2.2_ag_square.png" alt="D Logo Square" />
