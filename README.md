@@ -1,11 +1,10 @@
 # D Logos
 
-Some ideas for new logos for the D programming language needing manual refinement by an artist:
+Some ideas for new logos for the D programming language needing manual refinement by an artist.
 
-<img src="https://raw.githubusercontent.com/alecgargett/dlogos/master/dlogo1_ag.png" alt="D Logo 1" />
-<img src="https://raw.githubusercontent.com/alecgargett/dlogos/master/dlogo2_ag.png" alt="D Logo 2" />
-<img src="https://raw.githubusercontent.com/alecgargett/dlogos/master/dlogo3_ag.png" alt="D Logo 3" />
-<img src="https://raw.githubusercontent.com/alecgargett/dlogos/master/dlogo4_ag.png" alt="D Logo 4" />
+<img src="https://raw.githubusercontent.com/alecgargett/dlogos/master/dlogo1.1_ag.png" alt="D Logo 2" />
+<img src="https://raw.githubusercontent.com/alecgargett/dlogos/master/dlogo3.1_ag.png" alt="D Logo 2" />
+<img src="https://raw.githubusercontent.com/alecgargett/dlogos/master/dlogo2.1_ag.png" alt="D Logo 2" />
 
 Created by Alec Gargett using DALL-E
 
